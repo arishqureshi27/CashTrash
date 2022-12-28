@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "777025100670",
+    "project_id": "cashtrash",
+    "storage_bucket": "cashtrash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777025100670:android:2fc5726904afca2017712f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777025100670-0hhc17dpf0dht5a1sq7768j7hl8vdo08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFGRp2KRuSVip5jT_plsfd8ZOWINj1TLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777025100670-0hhc17dpf0dht5a1sq7768j7hl8vdo08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
